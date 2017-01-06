@@ -1,3 +1,4 @@
 # DnD
-
-TESTING123
+#
+# Dungeons & Dragons Inventory Management Project
+# Author : Sahan Nawaratna
