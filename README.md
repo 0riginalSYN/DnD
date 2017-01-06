@@ -1,4 +1,3 @@
-# DnD
-#
-# Dungeons & Dragons Inventory Management Project
+#  Dungeons & Dragons Inventory Management Project
+
 # Author : Sahan Nawaratna
